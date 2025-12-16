@@ -1,5 +1,12 @@
 # 📦 Sistem Inventaris Barang Kantor
 
+**Nama**   : Erna Dewi Lestari  
+**NIM**    : 221011403284  
+**Kelas**  : 07TPLP020  
+**Prodi**  : Teknik Informatika  
+**Fakultas** : Ilmu Komputer  
+**Universitas** : Universitas Pamulang  
+
 Aplikasi web berbasis **PHP & MySQL** untuk mengelola inventaris barang kantor.  
 Sistem ini mendukung pengelolaan data barang serta transaksi penjualan dengan pembagian role **Admin, Manager, dan Kasir**.
 
