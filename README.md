@@ -1,41 +1,37 @@
-# Sistem Inventaris Barang Kantor
+# Inventaris Barang
 
-## Deskripsi Aplikasi
-Sistem Inventaris Barang Kantor merupakan aplikasi berbasis web yang digunakan untuk membantu pengelolaan data barang, transaksi, dan laporan inventaris di lingkungan kantor. Aplikasi ini dirancang untuk mempermudah pencatatan stok barang, mengontrol barang keluar, serta menyediakan laporan yang rapi dan mudah dipahami. Sistem ini memiliki pembagian hak akses pengguna sehingga setiap user hanya dapat mengakses fitur sesuai perannya.
+Merupakan aplikasi untuk memudahkan dalam melakukan jual beli barang dan juga mengelola barang tersebut. Terdiri dari level admin,
+kasir, dan manager yang memliki tugas berbeda. 
+<p>Admin = mengelola barang, merek, dan distributor</p>
+<p>Manager = Kelola pegawai, kelola transaksi, laporan semua barang, laporan barang habis</p>
+<p>Kasir = Transaksi dan cetak struk</p>
+# Login screen
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33746018/56844550-39016f80-68dc-11e9-93ee-845f322e0471.PNG" align="middle" />
+</p>
+# Barang admin
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33746018/56844610-32272c80-68dd-11e9-9463-8cc483275f4d.PNG" align="middle" />
+</p>
+# Manager Dashboard Screen
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33746018/56844614-49661a00-68dd-11e9-9c9b-0c6cf77ee4ac.PNG" align="middle" />
+</p>
+# Laporan barang per periode manager
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33746018/56844623-70245080-68dd-11e9-9a33-535d9abda53c.PNG" align="middle" />
+</p>
+# Laporan transaksi manager
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33746018/56844624-70bce700-68dd-11e9-9630-56aa1cc40315.PNG" align="middle" />
+</p>
+# Transaksi Kasir
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33746018/56844627-71557d80-68dd-11e9-9b67-3c504239953d.PNG" align="middle" />
+</p>
+# Struk Kasir
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33746018/56844626-71557d80-68dd-11e9-8d7a-4a2a00f43d84.PNG" align="middle" />
+</p>
 
-## Fitur dan Tampilan Aplikasi
 
-### 1. Halaman Login
-Halaman login digunakan sebagai pintu masuk ke dalam sistem. Pengguna harus memasukkan username dan password untuk dapat mengakses aplikasi sesuai dengan level hak aksesnya.
-
-### 2. Dashboard
-Dashboard menampilkan ringkasan informasi penting seperti jumlah data barang, aktivitas transaksi, dan notifikasi stok barang yang menipis.
-
-### 3. Data Barang
-Halaman data barang digunakan untuk mengelola inventaris barang kantor. Pengguna dapat menambah, mengubah, dan menghapus data barang serta melihat jumlah stok yang tersedia.
-
-### 4. Data Merek
-Halaman ini digunakan untuk mengelola data merek barang agar pengelompokan barang lebih rapi dan terstruktur.
-
-### 5. Data Distributor
-Halaman distributor digunakan untuk mengelola data pemasok barang yang berhubungan dengan inventaris kantor.
-
-### 6. Transaksi
-Halaman transaksi digunakan untuk mencatat barang keluar. Stok barang akan otomatis berkurang setelah transaksi berhasil disimpan.
-
-### 7. Laporan
-Halaman laporan digunakan untuk melihat rekap data transaksi dan inventaris barang dalam bentuk tabel.
-
-### 8. Manajemen User
-Fitur ini digunakan untuk mengelola data pengguna dan pembagian hak akses seperti admin, manager, dan kasir.
-
-## Hak Akses Pengguna
-- Admin: Mengelola seluruh data dan pengguna
-- Manager: Melihat data inventaris dan laporan
-- Kasir: Melakukan transaksi barang
-
-## Teknologi yang Digunakan
-- PHP
-- MySQL
-- HTML, CSS, JavaScript
-- XAMPP
