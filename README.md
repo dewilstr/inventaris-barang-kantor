@@ -84,7 +84,7 @@ Kasir dapat langsung menuju menu transaksi dari halaman ini.
 ---
 
 ### 🛒 Transaksi Kasir
-![Transaksi Kasir](screenshots/transaksi.png)
+![Transaksi Kasir](screenshots/transaksi-kasir.png)
 Halaman transaksi digunakan oleh kasir untuk melakukan penjualan barang.  
 Kasir memilih barang dan jumlah pembelian, lalu sistem menghitung subtotal secara otomatis.
 
