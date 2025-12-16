@@ -6,6 +6,7 @@
 **Prodi**  : Teknik Informatika  
 **Fakultas** : Ilmu Komputer  
 **Universitas** : Universitas Pamulang  
+**Mata Kuliah** : Pemrograman Web II
 
 Aplikasi web berbasis **PHP & MySQL** untuk mengelola inventaris barang kantor.  
 Sistem ini mendukung pengelolaan data barang serta transaksi penjualan dengan pembagian role **Admin, Manager, dan Kasir**.
